@@ -8,3 +8,5 @@ output*
 .project
 .classpath
 .settings
+*.iml
+.idea/
